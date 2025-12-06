@@ -42,12 +42,6 @@
     "end_date": "2026-1-5"
   },
   {
-    "name": "tseegii tseegii",
-    "email": "tserenbatamgalanbaatar@gmail.com",
-    "start_date": "2025-11-20",
-    "end_date": "2025-12-20"
-  },
-  {
     "name": "Towshoo toogii",
     "email": "waveinyour@gmail.com",
     "start_date": "2025-11-20",
@@ -166,5 +160,11 @@
     "email": "syswarefun@gmail.com",
     "start_date": "2025-12-6",
     "end_date": "2099-12-31"
+  },
+  {
+    "name": "Tseegii",
+    "email": "tserenbatamgalanbaatar@gmail.com",
+    "start_date": "2025-11-20",
+    "end_date": "2025-3-20"
   }
 ]
