@@ -144,12 +144,6 @@
     "end_date": "2025-12-16"
   },
   {
-    "name": "Editor",
-    "email": "d4250289@gmail.com",
-    "start_date": "2025-12-6",
-    "end_date": "2025-12-7"
-  },
-  {
     "name": "Sysware",
     "email": "syswarefun@gmail.com",
     "start_date": "2025-12-6",
@@ -256,5 +250,11 @@
     "email": "telmunka11@gmail.com",
     "start_date": "2025-11-28",
     "end_date": "2025-12-28"
+  },
+  {
+    "name": "Editor",
+    "email": "d4250289@gmail.com",
+    "start_date": "2025-12-8",
+    "end_date": "2025-12-10"
   }
 ]
