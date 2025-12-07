@@ -36,12 +36,6 @@
     "end_date": "2025-12-28"
   },
   {
-    "name": "\u0414. \u0423\u0443\u0433\u0430\u043d\u0431\u0430\u044f\u0440",
-    "email": "Karmatyu979@gmail.com",
-    "start_date": "2025-12-5",
-    "end_date": "2026-1-5"
-  },
-  {
     "name": "Towshoo toogii",
     "email": "waveinyour@gmail.com",
     "start_date": "2025-11-20",
@@ -190,5 +184,11 @@
     "email": "ugtah.0317@gmail.com",
     "start_date": "2025-12-4",
     "end_date": "2026-1-4"
+  },
+  {
+    "name": "D.Uuganbayar",
+    "email": "Karmatyu979@gmail.com",
+    "start_date": "2025-12-7",
+    "end_date": "2026-1-5"
   }
 ]
