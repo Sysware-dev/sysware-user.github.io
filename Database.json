@@ -144,12 +144,6 @@
     "end_date": "2099-12-31"
   },
   {
-    "name": "Tseegii",
-    "email": "tserenbatamgalanbaatar@gmail.com",
-    "start_date": "2025-11-20",
-    "end_date": "2025-3-20"
-  },
-  {
     "name": "Gnbayr Temujin",
     "email": "gtemuujin0509@gmail.com",
     "start_date": "2025-12-7",
@@ -286,5 +280,11 @@
     "email": "Temkaulzii36@gmail.com",
     "start_date": "2025-12-8",
     "end_date": "2026-1-8"
+  },
+  {
+    "name": "Tseegii",
+    "email": "tserenbatamgalanbaatar@gmail.com",
+    "start_date": "2025-12-8",
+    "end_date": "2026-3-20"
   }
 ]
