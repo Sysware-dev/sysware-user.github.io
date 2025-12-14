@@ -48,12 +48,6 @@
     "end_date": "2026-1-1"
   },
   {
-    "name": "\u041d\u0438\u0441\u0434\u044d\u0433 \u0425\u0443\u0440\u0433\u0430.",
-    "email": "temkatemuulen0007@gmail.com",
-    "start_date": "2025-11-7",
-    "end_date": "2025-12-7"
-  },
-  {
     "name": "\u042d. \u0411\u0430\u0442\u0431\u0438\u043b\u044d\u0433",
     "email": "medkvla@gmail.com",
     "start_date": "2025-12-1",
@@ -406,5 +400,11 @@
     "email": "tengisrolex@gmail.com",
     "start_date": "2025-12-14",
     "end_date": "2026-1-1"
+  },
+  {
+    "name": "Nisdeg",
+    "email": "temkatemuulen0007@gmail.com",
+    "start_date": "2025-12-14",
+    "end_date": "2026-1-13"
   }
 ]
