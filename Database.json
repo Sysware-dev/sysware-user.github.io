@@ -204,12 +204,6 @@
     "end_date": "2026-1-10"
   },
   {
-    "name": "Az Jargal",
-    "email": "aazaa5390@gmail.com",
-    "start_date": "2025-12-10",
-    "end_date": "2026-1-10"
-  },
-  {
     "name": "Editor",
     "email": "d4250289@gmail.com",
     "start_date": "2025-12-10",
@@ -370,5 +364,11 @@
     "email": "osinee19@gmail.com",
     "start_date": "2025-12-20",
     "end_date": "2026-1-28"
+  },
+  {
+    "name": "Az Jargal",
+    "email": "aazaa5390@gmail.com",
+    "start_date": "2025-12-10",
+    "end_date": "2026-2-9"
   }
 ]
