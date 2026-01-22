@@ -1,6 +1,7 @@
 {
-  "maintenance_mode": false,
-  "maintenance_message": "The update will be completed at 16:00"
+  "maintenance_mode": true,
+  "maintenance_message": "Update hiigdej baina tur huleegeerei"
 
 }
+
 
