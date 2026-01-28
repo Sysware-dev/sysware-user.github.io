@@ -1,6 +1,6 @@
 {
   "usermode": "online",
-  "serverTraffic": "medium",
+  "serverTraffic": "high",
   "database": "online",
-  "admin": "online"
+  "admin": "busy"
 }
